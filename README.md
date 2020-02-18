@@ -13,6 +13,6 @@ This README.md lists project members, goals, responsibilities, and a summary of 
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
    
 ### Links:
-   - [_**How States were catagorized**_] (https://www.nationalgeographic.org/maps/united-states-regions/)
+   - [_**How States were catagorized**_](https://www.nationalgeographic.org/maps/united-states-regions/)
     
 
