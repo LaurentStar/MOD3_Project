@@ -10,6 +10,6 @@ This README.md lists project members, goals, responsibilities, and a summary of 
     - Lidet Alemu
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
-   - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/blob/master/dataframe_pickle)
+   - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
     
 
