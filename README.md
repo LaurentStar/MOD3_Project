@@ -9,7 +9,7 @@ This README.md lists project members, goals, responsibilities, and a summary of 
     - Laurent Mundell
     - Lidet Alemu
 ### Summary of Contents:  
-    - [Master Notebook](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
+[Master Notebook](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
     - Data
         - f
     
