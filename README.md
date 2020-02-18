@@ -11,6 +11,6 @@ This README.md lists project members, goals, responsibilities, and a summary of 
 ### Summary of Contents:  
    - [Master Notebook](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - Data
-        - [pandas dataframe](https://github.com/LaurentStar/MOD3_Project/blob/master/dataframe_pickle)
+        - [pandas dataframe - Carbon Emissions by State 35 Years](https://github.com/LaurentStar/MOD3_Project/blob/master/dataframe_pickle)
     
 
