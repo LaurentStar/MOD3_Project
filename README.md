@@ -9,7 +9,7 @@ This README.md lists project members, goals, responsibilities, and a summary of 
     - Laurent Mundell
     - Lidet Alemu
 ### responsibilities/Task:
-    - **Laurent Mundell**
+    - [_**Laurent Mundell**_]()
         - Collect Data using EIA's API
     - **Lidet Alemu**
         - Catagorize States into different regions
