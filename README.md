@@ -9,9 +9,11 @@ This README.md lists project members, goals, responsibilities, and a summary of 
     - Laurent Mundell
     - Lidet Alemu
 ### responsibilities/Task:
-    - [_**Laurent Mundell**_]()
+   - _**Laurent Mundell**_
         - Collect Data using EIA's API
-    - **Lidet Alemu**
+        - Graphed plot for explorations
+   - _**Lidet Alemu**_
+        - Chi Square hypothesis test
         - Catagorize States into different regions
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
