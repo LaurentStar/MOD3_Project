@@ -128,3 +128,4 @@ def load_population_data():
 		pickle.dump(df, file)
     
 	return population_df
+	
