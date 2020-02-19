@@ -23,5 +23,6 @@ This README.md lists project members, goals, responsibilities, and a summary of 
    
 ### Links:
    - [_**How States were catagorized**_](https://www.nationalgeographic.org/maps/united-states-regions/)
+   - [_**U.S. Energy Information Administration (eia) API**_](https://www.eia.gov/opendata/qb.php?category=2251604)
     
 
