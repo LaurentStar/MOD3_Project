@@ -6,8 +6,8 @@ This README.md lists project members, goals, responsibilities, and a summary of 
     - Given the population for 5 regions West, Mid West, South West, South East, North East does the population influence carbon emissions?
     -
 ### Project Members: 
-    - Laurent Mundell
-    - Lidet Alemu
+   - [Laurent Mundell](https://github.com/LaurentStar)
+   - [Lidet Alemu](https://github.com/Lidetsal)
     
 ### responsibilities/Task:
    - _**Laurent Mundell**_
