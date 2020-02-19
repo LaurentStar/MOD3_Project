@@ -3,11 +3,16 @@
 This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
 
 ### Goals: 
-    - Investigate relationships between carbon emissions for states located in the West Coast, Central, and East Coast America.
-    - 
+    - Given the population for 5 regions West, Mid West, South West, South East, North East does the population influence carbon emissions?
+    -
 ### Project Members: 
     - Laurent Mundell
     - Lidet Alemu
+### responsibilities/Task:
+    - Laurent Mundell
+        - Collect Data using EIA's API
+    - Lidet Alemu
+        - Catagorize States into different regions
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
