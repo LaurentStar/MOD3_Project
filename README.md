@@ -1,4 +1,4 @@
-# Carbon Emissions East Vs West
+# Carbon Emissions vs Population
 
 This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
 
