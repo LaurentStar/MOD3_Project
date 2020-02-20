@@ -104,24 +104,6 @@ def load_population_data():
 
 	population_df['States'] = population_df['States'].map(lambda x: x.replace('.', ''))
 
-	population_df = population_df.T  #May cause some issues
-
-	population_df.columns = population_df.iloc[0]
-
-	population_df.reset_index(inplace = True)
-
-	population_df.rename(columns = {2: 'Year'}, inplace =True)
-
-	population_df.drop(range(3), inplace = True)
-
-	population_df.reset_index(inplace = True)
-
-	population_df.drop(columns=['index'], inplace=True)
-
-	population_df.index.name = None
-
-	population_df.columns = population_df.columns.get_level_values(0)
-	
 
 	_ = os.path.join('data', 'population_dataframe_pickle')
 	with open(_, 'ab') as file:
