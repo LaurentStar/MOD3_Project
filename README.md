@@ -1,12 +1,8 @@
 # Carbon Emissions vs Population
 This project aims to answer 2 questions
    - Rather population size of a region has a relation to carbon emissions.
-   - Was there an significant effect on carbon emissions based on year and region 
+   - Was there an significant effect on carbon emissions based on year and state
 
-
-### Goals: 
-    - 
-    -
 ### Project Members: 
    - [Laurent Mundell](https://github.com/LaurentStar)
    - [Lidet Alemu](https://github.com/Lidetsal)
