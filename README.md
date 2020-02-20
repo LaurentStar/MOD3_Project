@@ -1,9 +1,11 @@
 # Carbon Emissions vs Population
+This project aims to answer 2 questions
+   - Rather population size of a region has a relation to carbon emissions.
+   - Was there an significant effect on carbon emissions based on year and region 
 
-This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
 
 ### Goals: 
-    - Given the population for 5 regions West, Mid West, South West, South East, North East does the population influence carbon emissions?
+    - 
     -
 ### Project Members: 
    - [Laurent Mundell](https://github.com/LaurentStar)
@@ -13,9 +15,12 @@ This README.md lists project members, goals, responsibilities, and a summary of 
    - _**Laurent Mundell**_
         - Collect Data using EIA's API
         - Graphed plot for explorations
-   - _**Lidet Alemu**_
         - Chi Square hypothesis test
+   - _**Lidet Alemu**_
+        - Collect Data using EIA's API
         - Catagorize States into different regions
+        - Graphed plot for presentation
+        - Prepared presentation
         
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
