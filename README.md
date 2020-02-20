@@ -6,7 +6,18 @@ This project aims to answer 2 questions
 ### Project Members: 
    - [Laurent Mundell](https://github.com/LaurentStar)
    - [Lidet Alemu](https://github.com/Lidetsal)
-
+    
+### responsibilities/Task:
+   - _**Laurent Mundell**_
+        - Collect Data using EIA's API
+        - Graphed plot for explorations
+        - Chi Square hypothesis test
+   - _**Lidet Alemu**_
+        - Collect Data using EIA's API
+        - Catagorize States into different regions
+        - Graphed plot for presentation
+        - Prepared presentation
+        
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
