@@ -20,6 +20,7 @@ This README.md lists project members, goals, responsibilities, and a summary of 
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
+   - [_**Visuals**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/images)
    
 ### Links:
    - [_**How States were catagorized**_](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
