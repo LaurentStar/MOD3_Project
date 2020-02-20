@@ -20,9 +20,12 @@ This README.md lists project members, goals, responsibilities, and a summary of 
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
+   - [_**Visuals**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/images)
+   - [_**Misc Scripts**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/scripts)
    
 ### Links:
    - [_**How States were catagorized**_](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
    - [_**U.S. Energy Information Administration (eia) API**_](https://www.eia.gov/opendata/qb.php?category=2251604)
+   - [_**Population Data**_](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx)
     
 
