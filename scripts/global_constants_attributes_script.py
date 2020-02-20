@@ -52,18 +52,16 @@ _STATES =  {'Alabama' : 'AL',
 }
 
 
-_REGIONS = {'south_east' : ['Louisiana', 'Arkansas', 'Mississippi', 'Tennessee', 'Alabama', 
+_REGIONS = {'south' : ['Texas', 'Oklahoma','Arkansas', 'Louisiana', 'Mississippi', 'Tennessee', 'Alabama', 
                            'Kentucky', 'Florida', 'Georgia', 'South Carolina', 'North Carolina', 
-                           'Virginia', 'West Virginia','Delaware'],
+                           'Virginia', 'West Virginia', 'Delaware', 'District of Columbia', 'Maryland'],
 
-           'north_east' : [ 'Maryland', 'New Jersey', 'New York','Connecticut', 'Rhode Island', 'Massachusetts', 
+           'north_east' : [ 'New Jersey', 'New York','Connecticut', 'Rhode Island', 'Massachusetts', 
                            'New Hampshire', 'Maine', 'Vermont', 'Pennsylvania'],
 
            'mid_west' : ['North Dakota', 'South Dakota', 'Nebraska', 'Kansas', 'Minnesota', 'Missouri', 'Iowa',
                          'Wisconsin', 'Illinois', 'Indiana', 'Michigan', 'Ohio' ],
 
-           'west_coast' : ['California', 'Alaska', 'Washington', 'Oregon', 'Nevada', 'Idaho', 'Utah', 'Montana', 
-                           'Wyoming', 'Colorado', 'Hawaii'],
-            
-           'south_west' : ['Arizona', 'New Mexico', 'Texas', 'Oklahoma' ]
+           'west' : ['California', 'Alaska', 'Washington', 'Oregon', 'Nevada', 'Idaho', 'Utah', 'Montana', 
+                           'Wyoming', 'Colorado', 'Hawaii', 'Arizona', 'New Mexico']
 }
