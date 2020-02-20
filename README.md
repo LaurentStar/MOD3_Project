@@ -1,18 +1,21 @@
-# Carbon Emissions East Vs West
+# Carbon Emissions vs Population
+This project aims to answer 2 questions
+   - Rather population size of a region has a relation to carbon emissions.
+   - Was there an significant effect on carbon emissions based on year and state
 
-This README.md lists project members, goals, responsibilities, and a summary of the files in the repository.
-
-### Goals: 
-    - Investigate relationships between carbon emissions for states located in the West Coast, Central, and East Coast America.
-    - 
 ### Project Members: 
    - [Laurent Mundell](https://github.com/LaurentStar)
    - [Lidet Alemu](https://github.com/Lidetsal)
+
 ### Summary of Contents:  
    - [_**Master Notebook**_](https://github.com/LaurentStar/MOD3_Project/blob/laurent/master.ipynb)
    - [_**Data**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/data)
+   - [_**Visuals**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/images)
+   - [_**Misc Scripts**_](https://github.com/LaurentStar/MOD3_Project/tree/laurent/scripts)
    
 ### Links:
-   - [_**How States were catagorized**_](https://www.nationalgeographic.org/maps/united-states-regions/)
+   - [_**How States were catagorized**_](https://www2.census.gov/geo/pdfs/maps-data/maps/reference/us_regdiv.pdf)
+   - [_**U.S. Energy Information Administration (eia) API**_](https://www.eia.gov/opendata/qb.php?category=2251604)
+   - [_**Population Data**_](https://www2.census.gov/programs-surveys/popest/tables/2010-2019/state/totals/nst-est2019-01.xlsx)
     
 
