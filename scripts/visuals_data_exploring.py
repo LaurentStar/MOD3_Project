@@ -1,4 +1,4 @@
-fig, ax = plt.subplots(ncols=1, nrows=6,figsize=(10, 25))
+fig, ax = plt.subplots(ncols=1, nrows=5,figsize=(10, 36))
 sns.distplot(a=df['Carbon_Emissions'], 
              ax=ax[0]).set_title('CO2_Emissions Distribution (million metric tons');#.figure.savefig("carbon_emissions_distrubtion.png")
 
@@ -30,7 +30,6 @@ sns.scatterplot(x="Carbon_Emissions",
             label="Total",
             ax=ax[4],
             color = 'purple').set_title('Population Size and Carbon_Emissions 2017' ); #.figure.savefig("population_size_carbon_emissions.png");
-
 
 			
 plt.tight_layout()

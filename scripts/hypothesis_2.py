@@ -1,6 +1,7 @@
-formula = 'Carbon_Emissions ~ C(State) + C(Year) + C(State) * C(Year)' # To be continued
+formula = 'Carbon_Emissions ~ C(State) * C(Year)' # To be continued
 model = ols(formula, df2).fit()
-model.summary() 
+model.summary()
+					#table = sm.stats.anova_lm(model, typ=2)
 print(table)
 
 
