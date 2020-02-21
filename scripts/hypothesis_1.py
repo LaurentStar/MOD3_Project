@@ -1,9 +1,9 @@
-_ = df['Population_Sum'].sum()
+_ = df['Population_2017'].sum()
 expected_frequency = []
-expected_frequency.append(np.round(df[df['Region']=='south']['Population_Sum'].sum()/_, 3)) 
-expected_frequency.append(np.round(df[df['Region']=='west']['Population_Sum'].sum()/_, 3))
-expected_frequency.append(np.round(df[df['Region']=='mid_west']['Population_Sum'].sum()/_, 3))
-expected_frequency.append(np.round(df[df['Region']=='north_east']['Population_Sum'].sum()/_, 3))
+expected_frequency.append(np.round(df[df['Region']=='south']['Population_2017'].sum()/_, 3)) 
+expected_frequency.append(np.round(df[df['Region']=='west']['Population_2017'].sum()/_, 3))
+expected_frequency.append(np.round(df[df['Region']=='mid_west']['Population_2017'].sum()/_, 3))
+expected_frequency.append(np.round(df[df['Region']=='north_east']['Population_2017'].sum()/_, 3))
 
 _ = df['Carbon_Emissions'].sum()
 observed_frequency = []
